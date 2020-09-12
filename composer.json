@@ -1,5 +1,5 @@
 {
-    "name": "2amigos/yii2-exportable-widget",
+    "name": "adspireio/yii2-exportable-widget",
     "description": "Exportable GridView widget for Yii2.",
     "keywords": ["yii", "extension", "export", "widget"],
     "type": "yii2-extension",
